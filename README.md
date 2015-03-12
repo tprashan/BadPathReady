@@ -1,2 +1,2 @@
-# BadPathReady
-travel agent use this to tell a path between to city. 
+# java-version-assignment
+java version assignment as map filter reduce etc. 
